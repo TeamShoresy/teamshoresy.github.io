@@ -817,7 +817,8 @@
                         children: "Mockups are useful both for the creative phase of the project - for instance when you‘re trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate."
                     })]
                 })
-            }, 
+            } ]
+        },
         8803: function(e) {
             "use strict";
             e.exports = [{
